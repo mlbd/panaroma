@@ -1,1 +1,28 @@
-
+{
+  "guide_posts": [
+    { 
+        "id": 1, 
+        "title": "Nepal",
+        "country": "nepal",
+        "content": "<h2>Required Documents:</h2><ul> <li>A filled-in visa application form (one per each person) available at the Consular Department. Incomplete forms are NOT accepted. The form should be typed or written legibly.</li><li>A valid passport and photocopy of its first three pages. The validity of the passport must not be less than 3 months from the date of visa issue.</li><li>An original invitation from the local branches of the Russian Home Ministry or Federal Migration Service and its copy. The invitation is to be arranged in Russia by those who invite the applicant (person, business partner, education institution). Copies submitted without original are not considered. Those who intend to visit Russia for tourist purpose instead of the invitation have to submit originals of the tourist voucher and conformation for the receiving of the foreign tourist, which should be obtained from the Russian tourist company registered with the Consular Department of the Ministry for Foreign Affairs of the Russian Federation (the company should have a reference number).</li><li>One passport size photo of the applicant. The photo can be black-and-white or color, preferably on matte paper.</li></ul>",
+    },
+    { 
+        "id": 2, 
+        "title": "Bhutan",
+        "country": "bhutan",
+        "content": "<h2>Required Documents:</h2><ul> <li>A filled-in visa application form (one per each person) available at the Consular Department. Incomplete forms are NOT accepted. The form should be typed or written legibly.</li><li>A valid passport and photocopy of its first three pages. The validity of the passport must not be less than 3 months from the date of visa issue.</li><li>An original invitation from the local branches of the Russian Home Ministry or Federal Migration Service and its copy. The invitation is to be arranged in Russia by those who invite the applicant (person, business partner, education institution). Copies submitted without original are not considered. Those who intend to visit Russia for tourist purpose instead of the invitation have to submit originals of the tourist voucher and conformation for the receiving of the foreign tourist, which should be obtained from the Russian tourist company registered with the Consular Department of the Ministry for Foreign Affairs of the Russian Federation (the company should have a reference number).</li><li>One passport size photo of the applicant. The photo can be black-and-white or color, preferably on matte paper.</li></ul>",
+    },
+    { 
+        "id": 3, 
+        "title": "Bangladesh",
+        "country": "bangladesh",
+        "content": "<h2>Required Documents:</h2><ul> <li>A filled-in visa application form (one per each person) available at the Consular Department. Incomplete forms are NOT accepted. The form should be typed or written legibly.</li><li>A valid passport and photocopy of its first three pages. The validity of the passport must not be less than 3 months from the date of visa issue.</li><li>An original invitation from the local branches of the Russian Home Ministry or Federal Migration Service and its copy. The invitation is to be arranged in Russia by those who invite the applicant (person, business partner, education institution). Copies submitted without original are not considered. Those who intend to visit Russia for tourist purpose instead of the invitation have to submit originals of the tourist voucher and conformation for the receiving of the foreign tourist, which should be obtained from the Russian tourist company registered with the Consular Department of the Ministry for Foreign Affairs of the Russian Federation (the company should have a reference number).</li><li>One passport size photo of the applicant. The photo can be black-and-white or color, preferably on matte paper.</li></ul>",
+    },
+    { 
+        "id": 4, 
+        "title": "India",
+        "country": "india",
+        "content": "<h2>Required Documents:</h2><ul> <li>A filled-in visa application form (one per each person) available at the Consular Department. Incomplete forms are NOT accepted. The form should be typed or written legibly.</li><li>A valid passport and photocopy of its first three pages. The validity of the passport must not be less than 3 months from the date of visa issue.</li><li>An original invitation from the local branches of the Russian Home Ministry or Federal Migration Service and its copy. The invitation is to be arranged in Russia by those who invite the applicant (person, business partner, education institution). Copies submitted without original are not considered. Those who intend to visit Russia for tourist purpose instead of the invitation have to submit originals of the tourist voucher and conformation for the receiving of the foreign tourist, which should be obtained from the Russian tourist company registered with the Consular Department of the Ministry for Foreign Affairs of the Russian Federation (the company should have a reference number).</li><li>One passport size photo of the applicant. The photo can be black-and-white or color, preferably on matte paper.</li></ul>",
+    },
+  ],
+}
